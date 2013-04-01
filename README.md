@@ -1,4 +1,6 @@
-slide-ted
+xslide
 =========
+use reveal.js to create slides
+add sharing about ideas from ted
 
-use reveal.js to create slides related with ted
+http://xslide.cloudfoundry.com
